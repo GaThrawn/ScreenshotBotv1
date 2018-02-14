@@ -8,7 +8,7 @@ const puppeteer = require('puppeteer');
 const screenshot = require('./ssrunner.js');
 const phonepics = require('./phonepics.js'); 
     
-var START_URL = "https://www.dancingbearaspen.com/";
+var START_URL = "https://www.builtbymikenash.com/";
 var MAX_PAGES_TO_VISIT = 1;
 
     
